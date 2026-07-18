@@ -1,15 +1,17 @@
 # Volcano.nvim
 
-### This project is abandoned and scheduled for deletion.
-### 
-### This project was meant to work alongside Supercodex.nvim, but after extensive 
-### development, it was revealed that the core idea could not be implemented. 
-###
-### Additionally, AI was used egregiously to the point that so much technical debt 
-### was accumulated, it's not feasible to salvage the project and create a more 
-### standard-adherent version of molten.nvim. 
-###
-### Lessons learned; there is work to be  done, and it's time to move on.
+<table width="100%">
+<thead>
+<tr><th align="left">ℹ️ NOTE</th></tr>
+</thead>
+<tbody>
+<tr><td>
+
+This is a neglected and unfinished project that I plan on revisiting in the future. Everything is a mess, so save yourself the headache and come back later.
+
+</td></tr>
+</tbody>
+</table>
 
 ---
 
